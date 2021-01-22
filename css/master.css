@@ -11,8 +11,7 @@
 
 /* MAIN */
 .background{
-  background-image: url(https://www.eurospin-viaggi.it/media/immagini/36098_n_Roma_1.jpg);
-  background-size: cover;
+
   height: 100vh;
   position: relative;
 }
@@ -22,3 +21,13 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+
+  color: white;
+  font-size: 62px;
+  text-shadow: 2px 2px 4px black;
+}
+
+#roma{
+  background-image: url(https://www.eurospin-viaggi.it/media/immagini/36098_n_Roma_1.jpg);
+  background-size: cover;
+}
