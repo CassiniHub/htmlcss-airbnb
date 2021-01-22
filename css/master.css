@@ -11,7 +11,7 @@
 
 /* MAIN */
 .background{
-
+  background-size: cover;
   height: 100vh;
   position: relative;
 }
@@ -29,5 +29,12 @@
 
 #roma{
   background-image: url(https://www.eurospin-viaggi.it/media/immagini/36098_n_Roma_1.jpg);
-  background-size: cover;
+}
+
+#new-york{
+  background-image: url(https://wallpaperaccess.com/full/123346.jpg);
+}
+
+#tokyo{
+  background-image: url(https://images.wallpapersden.com/image/download/tokyo-infinity_a2hsa22UmZqaraWkpJRmbmdlrWZlbWU.jpg);
 }
