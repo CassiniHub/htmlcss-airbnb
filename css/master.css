@@ -1,0 +1,24 @@
+/* REGOLE GENERALI */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+/* MAIN */
+.background{
+  background-image: url(https://www.eurospin-viaggi.it/media/immagini/36098_n_Roma_1.jpg);
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+}
+
+.city-title{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
