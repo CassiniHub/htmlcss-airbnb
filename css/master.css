@@ -12,7 +12,7 @@
 /* MAIN */
 .background{
   background-size: cover;
-  height: 100vh;
+  height: calc(100vh - 20px);
   position: relative;
   margin: 10px;
   border-radius: 10px;
